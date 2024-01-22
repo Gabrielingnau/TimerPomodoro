@@ -53,7 +53,7 @@ Before you begin, you will need to have the following tool installed on your mac
 ```bash
 git init
 
-git clone https://github.com/Gabrielingnau/GitFav
+git clone https://github.com/Gabrielingnau/TimerPomodoro
 
 ```
 
